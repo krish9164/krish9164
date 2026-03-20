@@ -34,12 +34,12 @@ I thrive in fast-paced environments where I can architect, optimize, and automat
 - Developed containerized **ETL pipelines**, distributed model training with **Ray**, and **MLflow** tracking with MinIO + PostgreSQL.  
 - Served BERT-based toxicity models using **FastAPI**, optimized for concurrency and online retraining.  
 
-### 🏋️ AI Workout Tracker  
+### 🏋️ AI Workout Tracker - https://workout-tracker-starter.vercel.app/  
 - Built a **full-stack workout tracker** using **FastAPI**, **React**, **PostgreSQL**, and **JWT authentication**.  
 - Added **voice-driven logging** via OpenAI Whisper for transcription and GPT function-calling for structured workout parsing.  
 - Automated **weekly progress summaries** with LLMs using APScheduler and SMTP.  
 
-### 💌 Careloom — Relationship Assistant  
+### 💌 Careloom — Relationship Assistant - https://careloom-spark-landing.lovable.app/  
 - Created a **Next.js + Supabase** web app to track birthdays and anniversaries, generating weekly personalized date & gift ideas using GPT.  
 - Deployed on custom domain [careloom.io](https://careloom.io) with responsive UI using Tailwind CSS and Lucide icons.  
 
