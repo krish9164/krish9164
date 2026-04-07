@@ -16,6 +16,7 @@ I thrive in fast-paced environments where I can take ownership of critical outco
 Have the ability to think like an engineer and reason like a business person at the same time.
 A low-ego builder, driven by curiosity and learn best by building and teaching others.
 Proficient in using AI to accelerate development without compromising code quality.
+
 ---
 
 ## 💼 Projects  
