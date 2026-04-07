@@ -22,7 +22,7 @@ My work spans end-to-end ML pipelines, APIs, and distributed systems, from data 
 ## 💼 Projects  
 
 ### 🚀 On-device AI Agent for hospital patient monitoring *(GoogleDeepMind x InstaLILY Hackathon)*  
-- Built on-device multimodal AI agent to address the lack of reliable, real-time tracking of bedside care activities in hospital rooms, where manual logging is often delayed, incomplete, or unverifiable
+- Built an on-device multimodal AI agent to address the lack of reliable, real-time tracking of bedside care activities in hospital rooms, where manual logging is often delayed, incomplete, or unverifiable
 - Designed a system that converts continuous video and audio streams into structured event logs, enabling accurate, time-based memory of patient care without storing sensitive raw data.
 - Implemented a privacy-first architecture where all processing runs locally using Gemma 3n and Whisper, ensuring sensitive hospital data never leaves the room.
 - Developed an adaptive anomaly detection engine that identifies unusual care patterns (e.g., abnormal frequency or timing) using rolling statistics instead of fixed thresholds.
