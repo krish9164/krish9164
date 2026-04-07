@@ -28,7 +28,7 @@ My work spans end-to-end ML pipelines, APIs, and distributed systems, from data 
 - Developed an adaptive anomaly detection engine that identifies unusual care patterns (e.g., abnormal frequency or timing) using rolling statistics instead of fixed thresholds.
 - Fine-tuned the vision component with LoRA on a custom dataset to improve real-world event recognition and integrated it into a full agent loop with perception, memory, reasoning, and action.
 
-### 🚀 Scalable Content Moderation System *(MLOps Course Project – NYU)*  
+### 🚀 Scalable Content Moderation System for Social Media Platforms*(MLOps Course Project – NYU)*  
 - Engineered a scalable cloud-native content moderation system using fine-tuned BERT with ONNX-optimized inference and FastAPI, enabling real-time toxic comment classification with sub-100ms latency under production-like load. 
 - Architected cloud-native infrastructure using Terraform, Kubernetes, Helm, Docker, and Ansible, deploying a 3-node cluster. 
 - Automated CI/CD pipelines using ArgoCD and Argo Workflows for reliable multi-stage model deployment (staging → canary → production).
