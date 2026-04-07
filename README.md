@@ -55,12 +55,12 @@ My work spans end-to-end ML pipelines, APIs, and distributed systems, from data 
 
 ## 🔧 Skills & Expertise  
 
-**AI Development tools:** Claude Code, Cursor, Github Copilot, OpenAI Codex, Gemini
+**AI Development tools:** Claude Code, Cursor, Github Copilot, OpenAI Codex, Gemini  
 **Programming Languages:** Python, Java, JavaScript, TypeScript, SQL  
-**Frameworks:** FastAPI, React, Next.js, PyTorch, TensorFlow, Scikit-learn 
+**Frameworks:** FastAPI, React, Next.js, PyTorch, TensorFlow, Scikit-learn  
 **MLOps & DevOps:** Docker, Kubernetes, Terraform, ArgoCD, Argo Workflows, Jenkings, MLflow, Ray, Ansible, Helm  
-**Cloud & Databases:** AWS (S3, EC2, Lambda), GCP, Azure, PostgreSQL, MySQL, MongoDB, Pinecone, Redis 
-**Tools & Systems:** Prometheus, Grafana, Supabase, GitHub Actions, JUnit, Pytest 
+**Cloud & Databases:** AWS (S3, EC2, Lambda), GCP, Azure, PostgreSQL, MySQL, MongoDB, Pinecone, Redis  
+**Tools & Systems:** Prometheus, Grafana, Supabase, GitHub Actions, JUnit, Pytest  
 
 ---
 
