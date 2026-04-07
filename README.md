@@ -3,7 +3,7 @@
 🎓 **M.S. in Computer Engineering**, New York University  
 🎓 **B.Tech in Information Technology**, K. J. Somaiya College of Engineering  
 
-📫 **Email:** khp3878@nyu.edu | 📞 +1 929-627-4898  
+📫 **Email:** khp3878@nyu.edu , krish.hp2001@gmail.com | 📞 +1 929-627-4898  
 🌐 **LinkedIn:** [linkedin.com/in/panchal-krish](https://linkedin.com/in/panchal-krish) 
 
 ---
